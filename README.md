@@ -2,7 +2,7 @@
 
 # Project: Quote generator
 
-**Live preview** of my project [here](https://github.com/nathimamba/quote-generator)
+**Live preview** of my project [here](https://nathimamba.github.io/quote-generator/)
 
 ### Objective: ###
 
